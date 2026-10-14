@@ -1,0 +1,25 @@
+[
+  {
+    "id": "dexter",
+    "name": "Dexter",
+    "description": "Experimental Dexter.pw provider; returns only direct media URLs exposed by the page.",
+    "version": "0.1.0",
+    "author": "Custom",
+    "supportedTypes": [
+      "movie",
+      "tv"
+    ],
+    "filename": "providers/dexter.js",
+    "enabled": true,
+    "contentLanguage": [
+      "en"
+    ],
+    "formats": [
+      "mp4",
+      "m3u8"
+    ],
+    "limited": true,
+    "disabledPlatforms": [],
+    "supportsExternalPlayer": true
+  }
+]
